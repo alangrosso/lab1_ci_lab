@@ -1,0 +1,6 @@
+.pytest_cache/
+.vscode/
+parte1-ci-lab/
+venv/
+
+Laboratorio.txt

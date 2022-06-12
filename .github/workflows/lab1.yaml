@@ -11,4 +11,3 @@ jobs:
         run: |
           pip install -r requeriments.txt
           pytest tests/
-          flake8 .
